@@ -20,8 +20,13 @@
         src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
-## 📈GitHub Stats!
+### 📈GitHub Stats!
+
+<!-- <div align="center" >
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachulujambio)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> -->
 
 <!-- Footer -->
 <samp>
