@@ -19,7 +19,10 @@
 <a href="https://www.linkedin.com/in/valentin-lujambio/" target="_blank"><img alt="Linkedin"
         src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
-        
+
+## 📈GitHub Stats!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachulujambio)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Footer -->
 <samp>
     <p align="center">
@@ -29,4 +32,4 @@
     </p>
 </samp>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachulujambio)](https://github.com/anuraghazra/github-readme-stats)
+
