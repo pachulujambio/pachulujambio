@@ -23,6 +23,8 @@
 <!-- Footer -->
 <samp>
     <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
         Thanks for watching!
     </p>
 </samp>
