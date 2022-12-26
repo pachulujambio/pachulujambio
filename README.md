@@ -2,23 +2,14 @@
 
 ## 🚧 Readme in production! - Readme en producción! 🚧
 <br>
+</div>
 
 <!-- Header -->
-<br/>
-<div align="center" >
-<img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300"/>
-</div>
-<br/>
+<img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300" align="right"/>
 
-___
-## About Me! - Sobre mi!😊
-
-<br>
-
-___
-## Connect with Me! - Contactame!🤝🏻
+## 🤝🏻Connect With Me! - Contactame!🤝🏻
 <!-- Social Links -->
-<p align="center">
+<p >
     <!-- Gmail -->
     <a href="mailto:valentin.lujambio@gmail.com" target="_blank"><img alt="Gmail"
             src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -30,7 +21,12 @@ ___
 </p>
 <br>
 
-___
+## About Me! - Sobre Mi!😊
+<br>
+
+## 💻Technologies and Tools - Tecnologías y Herramientas💻
+<br>
+
 <!-- GitHub Stats -->
 ## 📈GitHub Stats!📈
 <br>
@@ -44,7 +40,7 @@ ___
 <div align="center">
         ════ ⋆★⋆ ════
         <br>
-        Thanks for watching! - Gracias por visitarme!
+        Thanks for watching! - Gracias por visitar mi perfil!
 </div>
 
 
