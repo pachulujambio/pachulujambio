@@ -5,7 +5,9 @@
 </div>
 
 <!-- Header -->
-<img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300" align="right"/>
+<div align="center">
+<img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300"/>
+</div>
 
 ## 🤝🏻Connect With Me! - Contactame!🤝🏻
 <!-- Social Links -->
