@@ -51,6 +51,9 @@ Hi! My name is Valentin Lujambio and i am the developer since 2021.
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/mysql.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/react.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/spring.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/androidStudio.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/eclipse.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/vscode.png?raw=true" alt=html5 width="60" height="60"/> 
 </p>
 
 
