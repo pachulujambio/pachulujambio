@@ -9,6 +9,7 @@
 <img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300"/>
 </div>
 
+
 <!-- Social Links -->
 <div align="center">
 
@@ -25,38 +26,33 @@
             src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
 </p>
-<br>
 
-<!-- Sobre mi -->
+<!-- About Me -->
 <div align="center">
 
 ## About Me! - Sobre Mi!😊
 </div>
 
+<!-- counter view -->
+![](https://komarev.com/ghpvc/?username=pachulujambio&color=green&style=flat-square)
 ```js
 import SoftwareDeveloper from 'valentin-lujambio';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Valentin Lujambio';
+  age      =  24;
   title    = 'Full Stack Java Developer';
   company  = 'Wiener Lab | hybrid - Hibrido';
   location = 'Rosario, Santa Fe - Argentina';
 }
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'JavaScript', 'PHP'];
-  databases  = ['MySQL'];
-  frameworks = ['React','Angular'];
-}
 ```
-<br>
 
-<!-- Tecnologías -->
+<!-- Technologies -->
 <div align="center">
 
 ## Technologies and Tools - Tecnologías y Herramientas💻
 </div>
-<br>
+
 
 <!-- GitHub Stats -->
 <div align="center">
