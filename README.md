@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🚧 Readme in production! 🚧
+## 🚧 Readme in production! - Readme en producción! 🚧
 <br>
 
 <!-- Header -->
@@ -10,6 +10,13 @@
 </div>
 <br/>
 
+___
+## About Me! - Sobre mi!😊
+
+<br>
+
+___
+## Connect with Me! - Contactame!🤝🏻
 <!-- Social Links -->
 <p align="center">
     <!-- Gmail -->
@@ -25,26 +32,19 @@
 
 ___
 <!-- GitHub Stats -->
-### 📈GitHub Stats!
+## 📈GitHub Stats!📈
 <br>
-<div align="center" style="display: flex">
-<div>
+<div align="center">
 
 [![Valentin Lujambio GitHub stats](https://github-readme-stats.vercel.app/api?username=pachulujambio&show_icons=true&theme=merko)](https://github.com/pachulujambio)
-</div>
-
-<div style="margin-left: 10px">
 
 [![Valentin Lujambio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pachulujambio&layout=compact&theme=merko)](https://github.com/pachulujambio)
 </div>
 
-</div>
-
-___
 <div align="center">
         ════ ⋆★⋆ ════
         <br>
-        Thanks for watching!
+        Thanks for watching! - Gracias por visitarme!
 </div>
 
 
