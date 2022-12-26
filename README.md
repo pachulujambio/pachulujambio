@@ -34,11 +34,11 @@ ___
 </div>
 
 ___
-"center">
+<div align="center">
         ════ ⋆★⋆ ════
         <br>
         Thanks for watching!
-    </p>
-</samp>
+</div>
+
 
 
