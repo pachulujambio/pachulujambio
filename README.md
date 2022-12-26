@@ -35,8 +35,12 @@
 </div>
 
 - Hi! My name is Valentin Lujambio and i am the developer since 2021. 
-- I got certified as a programmer at the National Technological University, I am currently training on different platforms and studying English to get better results.
-- I also study information systems engineering.
+- I got certified as a programmer at the National Technological University(UTN by its acronym in Spanish), I am currently training on different platforms and studying English to get better results.
+- I am also studying information systems engineering at UTN.
+
+- ¡Hola! Mi nombre es Valentin Lujambio y soy el desarrollador desde 2021.
+- Me certifiqué como programador en la Universidad Tecnológica Nacional(UTN), actualmente me estoy capacitando en diferentes plataformas y estudiando inglés para obtener mejores resultados.
+- También estoy estudiando ingeniería en sistemas de información en la UTN.
 <br>
 
 <!-- Technologies -->
