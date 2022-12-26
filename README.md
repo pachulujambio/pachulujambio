@@ -33,8 +33,11 @@
 
 ## About Me! - Sobre Mi!😊
 </div>
-Hi! My name is Valentin Lujambio and i am the developer since 2021. 
 
+- Hi! My name is Valentin Lujambio and i am the developer since 2021. 
+- I got certified as a programmer at the National Technological University, I am currently training on different platforms and studying English to get better results.
+- I also study information systems engineering.
+<br>
 
 <!-- Technologies -->
 <div align="center">
@@ -55,7 +58,7 @@ Hi! My name is Valentin Lujambio and i am the developer since 2021.
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/eclipse.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/vscode.png?raw=true" alt=html5 width="60" height="60"/> 
 </p>
-
+<br>
 
 <!-- GitHub Stats -->
 <div align="center">
