@@ -8,7 +8,7 @@
 <img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300" align="right"/>
 
 <!-- Spotify -->
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/valentin.lujambio)
 
 <!-- Social Links -->
 <div align="center">
@@ -26,6 +26,7 @@
             src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
 </p>
+<br>
 
 <!-- About Me -->
 <div align="center">
