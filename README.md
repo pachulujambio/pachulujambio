@@ -9,7 +9,7 @@
 
 ## 🤝🏻Connect With Me! - Contactame!🤝🏻
 <!-- Social Links -->
-<p >
+<p align="center">
     <!-- Gmail -->
     <a href="mailto:valentin.lujambio@gmail.com" target="_blank"><img alt="Gmail"
             src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -22,15 +22,32 @@
 <br>
 
 ## About Me! - Sobre Mi!😊
+```js
+import SoftwareDeveloper from 'valentin-lujambio';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Valentin Lujambio';
+  title    = 'Full Stack Java Developer';
+  company  = 'Wiener Lab | hybrid - Hibrido';
+  location = 'Rosario, Santa Fe - Argentina';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['Java', 'JavaScript', 'PHP'];
+  databases  = ['MySQL'];
+  frameworks = ['React','Angular'];
+}
+```
 <br>
 
-## 💻Technologies and Tools - Tecnologías y Herramientas💻
+## Technologies and Tools - Tecnologías y Herramientas💻
 <br>
 
 <!-- GitHub Stats -->
+<div align="center">
+
 ## 📈GitHub Stats!📈
 <br>
-<div align="center">
 
 [![Valentin Lujambio GitHub stats](https://github-readme-stats.vercel.app/api?username=pachulujambio&show_icons=true&theme=merko)](https://github.com/pachulujambio)
 
