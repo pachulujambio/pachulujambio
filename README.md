@@ -5,10 +5,10 @@
 </div>
 
 <!-- Header -->
-<div align="center">
-<img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300"/>
-</div>
+<img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300" align="right"/>
 
+<!-- Spotify -->
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
 
 <!-- Social Links -->
 <div align="center">
@@ -32,25 +32,13 @@
 
 ## About Me! - Sobre Mi!😊
 </div>
+Hi! My name is Valentin Lujambio and i am the developer since 2021. 
 
-<!-- counter view -->
-![](https://komarev.com/ghpvc/?username=pachulujambio&color=green&style=flat-square)
-```js
-import SoftwareDeveloper from 'valentin-lujambio';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Valentin Lujambio';
-  age      =  24;
-  title    = 'Full Stack Java Developer';
-  company  = 'Wiener Lab | hybrid - Hibrido';
-  location = 'Rosario, Santa Fe - Argentina';
-}
-```
 
 <!-- Technologies -->
 <div align="center">
 
-## Technologies and Tools - Tecnologías y Herramientas💻
+## 💻Technologies and Tools - Tecnologías y Herramientas💻
 </div>
 
 
@@ -58,7 +46,9 @@ class Bio extends SoftwareDeveloper {
 <div align="center">
 
 ## 📈GitHub Stats!📈
-<br>
+
+<!-- counter view -->
+![](https://komarev.com/ghpvc/?username=pachulujambio&color=green&style=flat-square)
 
 [![Valentin Lujambio GitHub stats](https://github-readme-stats.vercel.app/api?username=pachulujambio&show_icons=true&theme=merko)](https://github.com/pachulujambio)
 
