@@ -9,8 +9,12 @@
 <img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300"/>
 </div>
 
-## 🤝🏻Connect With Me! - Contactame!🤝🏻
 <!-- Social Links -->
+<div align="center">
+
+## 🤝🏻Connect With Me! - Contactame!🤝🏻
+</div>
+
 <p align="center">
     <!-- Gmail -->
     <a href="mailto:valentin.lujambio@gmail.com" target="_blank"><img alt="Gmail"
@@ -23,7 +27,12 @@
 </p>
 <br>
 
+<!-- Sobre mi -->
+<div align="center">
+
 ## About Me! - Sobre Mi!😊
+</div>
+
 ```js
 import SoftwareDeveloper from 'valentin-lujambio';
 
@@ -42,7 +51,11 @@ class Skills extends SoftwareDeveloper {
 ```
 <br>
 
+<!-- Tecnologías -->
+<div align="center">
+
 ## Technologies and Tools - Tecnologías y Herramientas💻
+</div>
 <br>
 
 <!-- GitHub Stats -->
