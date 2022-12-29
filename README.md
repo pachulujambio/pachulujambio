@@ -25,6 +25,10 @@
     <a href="https://www.linkedin.com/in/valentin-lujambio/" target="_blank"><img alt="Linkedin"
             src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
+    <!-- Calendly -->
+    <a href="https://calendly.com/valentinlujambio" target="_blank"><img alt="Calendly"
+            src="https://img.shields.io/badge/Calendly-Talk%20Me!-blue">
+    </a>
 </p>
 <br>
 
