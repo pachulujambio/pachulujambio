@@ -49,6 +49,17 @@
 - También estoy estudiando ingeniería en sistemas de información en la UTN.
 <br>
 
+<!-- NPX card -->
+<div align="center">
+
+## NPX Card🎫
+</div>
+
+Write to your console.
+```
+npx pachulujambio
+```
+
 <!-- Technologies -->
 <div align="center">
 
