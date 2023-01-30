@@ -44,9 +44,8 @@
 
 <br>
 
-- ¡Hola! Mi nombre es Valentin Lujambio y soy el desarrollador desde 2021.
-- Me certifiqué como programador en la Universidad Tecnológica Nacional(UTN), actualmente me estoy capacitando en diferentes plataformas y estudiando inglés para obtener mejores resultados.
-- También estoy estudiando ingeniería en sistemas de información en la UTN.
+- ¡Hola! Mi nombre es Valentin Lujambio y soy desarrollador desde 2021.
+- Me certifiqué como programador en la Universidad Tecnológica Nacional(UTN), actualmente me estoy capacitando en diferentes plataformas y estudiando inglés para obtener mejores resultados a la par estoy estudiando ingeniería en sistemas de información también en la UTN.
 <br>
 
 <!-- NPX card -->
