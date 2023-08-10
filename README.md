@@ -66,19 +66,19 @@ npx pachulujambio
 ## 💻Technologies and Tools - Tecnologías y Herramientas💻
 </div>
 <p align="center">
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/java.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/spring.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/python.png?raw=true" alt=html5 width="60" height="60"/>
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/angular.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/bootstrap.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/css.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/html.png?raw=true" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/java.png?raw=true" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/js.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/mysql.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/react.png?raw=true" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/spring.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/js.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/androidStudio.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/eclipse.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/vscode.png?raw=true" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/python.png?raw=true" alt=html5 width="60" height="60"/>
 </p>
 <br>
 
