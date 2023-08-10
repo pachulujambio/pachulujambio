@@ -7,8 +7,9 @@
 <!-- Header -->
 <img src="Hi!.gif" alt="Valentin Lujambio"  width="300" height="300" align="right"/>
 
-<!-- Spotify -->
+<!-- Spotify 
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/valentin.lujambio)
+-->
 
 <!-- Social Links -->
 <div align="center">
