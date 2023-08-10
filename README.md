@@ -63,7 +63,7 @@ npx pachulujambio
 <!-- Technologies -->
 <div align="center">
 
-## 💻Technologies and Tools - Tecnologías y Herramientas💻
+## 💻Skills - Habilidades💻
 </div>
 <p align="center">
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/java.png?raw=true" alt=html5 width="60" height="60"/> 
@@ -76,9 +76,11 @@ npx pachulujambio
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/mysql.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/react.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/js.png?raw=true" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/androidStudio.png?raw=true" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/androidStudio.png?raw=true" alt=html5 width="60" height="60"/>
+	<!--
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/eclipse.png?raw=true" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://github.com/pachulujambio/pachulujambio/blob/main/img/vscode.png?raw=true" alt=html5 width="60" height="60"/>
+	-->
 </p>
 <br>
 
